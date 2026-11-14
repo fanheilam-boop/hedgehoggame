@@ -1,0 +1,2 @@
+dialogue_text = " Here, have this acorn and go to the fox. The story of your unfortunate incident with the squirrel is all over town and everyone wants to help you. Well, almost everyone. Be aware that some animals are working for the squirrel. (go to the fox)";
+show_dialogue = false;

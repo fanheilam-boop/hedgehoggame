@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Sequence1_Events1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Sequence1_Events1",
+  "parent":{
+    "name":"hedgehoggame",
+    "path":"hedgehoggame.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
